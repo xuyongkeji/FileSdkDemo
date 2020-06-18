@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdkCoreDemo.exe
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdkCoreDemo.deps.json
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdkCoreDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdkCoreDemo.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdkCoreDemo.dll
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdkCoreDemo.pdb
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\FileSdk.dll
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.dll
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.pdb
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkCoreDemo\obj\Debug\netcoreapp3.1\FileSdkCoreDemo.genruntimeconfig.cache

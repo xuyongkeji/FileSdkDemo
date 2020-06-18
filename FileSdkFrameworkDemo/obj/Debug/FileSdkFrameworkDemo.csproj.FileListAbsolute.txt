@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\bin\Debug\FileSdkFrameworkDemo.exe.config
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\bin\Debug\FileSdkFrameworkDemo.exe
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\bin\Debug\FileSdkFrameworkDemo.pdb
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\bin\Debug\FileSdk.dll
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\obj\Debug\FileSdkFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\obj\Debug\FileSdkFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\obj\Debug\FileSdkFrameworkDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\obj\Debug\FileSdkFrameworkDemo.exe
+C:\Users\Administrator\Desktop\TestFileServerSdk\FileSdkFrameworkDemo\obj\Debug\FileSdkFrameworkDemo.pdb
